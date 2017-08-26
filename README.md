@@ -1,3 +1,3 @@
 # UEFA-Champions-League-Draw-Simulator
 Draw simulator with zero-error performance
-![alt tag](UEFA-Champions-League-Draw-Simulator/DrawSimulator/Screenshot.png)
+![alt tag](https://raw.githubusercontent.com/Steveisno1/master/UEFA-Champions-League-Draw-Simulator/DrawSimulator/Screenshot.png)
